@@ -1,0 +1,17 @@
+.main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: auto;
+    background-color: grey;
+}
+
+.main-title {
+    text-align: center;
+}
+
+html, body{
+    min-height: 100%;
+}
